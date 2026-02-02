@@ -8,4 +8,4 @@
 I am 17 years old and I am starting computer science engineering studies next year.
 I am a Fullstack Developer with a strong foundation in both frontend and backend technologies. 
 I thrive on solving challenging problems and creating innovative solutions.
-What do I love do to ? Go on vacation, listen to music, play the iano, sing, dance, spend time with my friends and family and party 🪩🥰 
+What do I love do to ? Go on vacation, listen to music, play the piano, sing, dance, spend time with my friends and family and party 🪩🥰 
