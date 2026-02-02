@@ -5,6 +5,7 @@
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a Fullstack Developer with a strong foundation in both frontend and backend technologies. 
 I am 17 years old and I am starting computer science engineering studies next year.
+I am a Fullstack Developer with a strong foundation in both frontend and backend technologies. 
 I thrive on solving challenging problems and creating innovative solutions.
+What do I love do to ? Go on vacation, listen to music, play the iano, sing, dance, spend time with my friends and family and party 🪩🥰 
